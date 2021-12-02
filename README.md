@@ -1,11 +1,4 @@
-# Watchy - Fully Open Source E-Paper Watch
 
-![Watchy](https://watchy.sqfmi.com/img/watchy_render.png)
-
-[**Pre-order Watchy!**](https://www.crowdsupply.com/sqfmi/watchy)
-Now with injection molded or CNC'd aluminum case
-
-Visit [**https://watchy.sqfmi.com**](https://watchy.sqfmi.com) for documentation, hardware design files, and more!
 
 ## Setup
 1. In the Arduino IDE Boards Manager, install support for the ESP32. You can find instructions here: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
