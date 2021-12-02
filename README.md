@@ -1,4 +1,4 @@
-
+E-Watch
 
 ## Setup
 1. In the Arduino IDE Boards Manager, install support for the ESP32. You can find instructions here: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
