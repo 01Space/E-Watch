@@ -12,7 +12,7 @@
     * Partition Scheme: "Minimal SPIFFS"
     * All Other Settings: leave to default
 
-You may also have to install the [CP2104 USB to Serial drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) if the port is not automatically detected
+You may also have to install the [CP2102 USB to Serial drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) if the port is not automatically detected
 
 ### Have Fun! :)
     
