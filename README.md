@@ -1,5 +1,7 @@
 E-Watch
 
+Firmware fully compatible with  Watchy v1.0
+
 Arduino Setup#
 Watchy comes pre-loaded with firmware that demonstrates all the basic features. You can also try different watch faces and examples in Arduino.
 
