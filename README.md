@@ -1,8 +1,8 @@
  # E-Watch
 
-Firmware fully compatible with  Watchy v1.0
+# Firmware fully compatible with  Watchy v1.0
 
-Arduino Setup#
+# Arduino Setup
 Watchy comes pre-loaded with firmware that demonstrates all the basic features. You can also try different watch faces and examples in Arduino.
 
 1.Download and install the latest Arduino IDE
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 6.Make sure all the dependencies are updated to the latest version i.e. GxEPD2 , WiFiManager, rtc_pcf8563,etc.
 
-Upload#
+# Upload
 
 1.Plug in the USB on Watchy and select the serial port that shows up
 
@@ -37,7 +37,7 @@ Upload#
 
 8.Try modifiying the examples or create your own app!
 
-Wi-Fi Setup#
+# Wi-Fi Setup
 
 1.Click 'Setup Wifi' from the main menu on the watch
 
@@ -53,7 +53,7 @@ Wi-Fi Setup#
 
 7.If the connection fails, Watchy will display 'Setup failed & timed out!'. Otherwise, it will display the local IP address and SSID of the connected network with confirmation
 
-Troubleshoot Wi-Fi Setup:#
+# Troubleshoot Wi-Fi Setup:
 
 1.Click 'Info' from 192.168.4.1 page
 
@@ -61,7 +61,7 @@ Troubleshoot Wi-Fi Setup:#
 
 3.If the above doesn't fix it, then try clicking 'Erase Wifi Config' from the 'Info' page and wait for Watchy to restart itself. Once that happens, try the Wi-Fi setup again
 
-PlatformIO Setup#
+# PlatformIO Setup
 
 PlatformIO is a compatible alternative to arduino. It's more oriented for the command line user, but it is also more flexible and predictable in build configurations and dependency management (like libraries).
 
