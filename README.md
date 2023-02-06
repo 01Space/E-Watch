@@ -1,4 +1,4 @@
-E-Watch
+ # E-Watch
 
 Firmware fully compatible with  Watchy v1.0
 
