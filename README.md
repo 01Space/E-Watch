@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 6.Make sure all the dependencies are updated to the latest version i.e. GxEPD2 , WiFiManager, rtc_pcf8563,etc.
 
 Upload#
+
 1.Plug in the USB on Watchy and select the serial port that shows up
 
 2.If nothing shows up, or if you're having trouble uploading, make sure you have the USB-Serial drivers installed. Also make sure you're using a USB data cable, and not a charge-only cable. Try different USB ports as well.
